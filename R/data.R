@@ -10,4 +10,4 @@
 #'   \item{losses}{The number of games the team has lost.}
 #' }
 #' @source Simulated data
-"data"
+"plotdata"
